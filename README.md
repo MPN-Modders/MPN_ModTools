@@ -2,7 +2,7 @@
 ## Introduction
 M:PN Mod Tools is a Unity 2019.2.6f1 Editor Project for creating custom weapons, armor, bodyparts, and gore for MADNESS: Project Nexus. This README will only cover basic installation, if you want a full guide on how to use the tools, please refer to [here](https://docs.google.com/document/d/1f_RbQGE45CY8no6mFuVGTaOTF7XnaK7yq5tJXty_JSA)
 ## Installation
-### Getting the scene tools project on your desktop
+### Getting the Mod Tools project on your desktop
 There are two ways you can get the Mod Tools project on your desktop.
 1. Download the ZIP file of this repo
 2. Clone it using Git
@@ -29,7 +29,7 @@ Select 2019
 Select version 2019.2.6f1
 
 ### Opening up the project
-Once you have installed everything, open up Unity hub, click the Add button at the top, then find the Scene Tools project.
+Once you have installed everything, open up Unity hub, click the Add button at the top, then find the Mod Tools project.
 
 ![image](https://github.com/user-attachments/assets/0fcf08ee-f055-4192-b44f-28b6d774b534)
 
@@ -39,4 +39,4 @@ Click the add button
 
 Find the root directory of your project (you'll know you've found it when it shows the assets, packages, and project settings folders)
 
-That's it, you've now setup the Scene Tools project to be used
+That's it, you've now setup the Mod Tools project to be used
