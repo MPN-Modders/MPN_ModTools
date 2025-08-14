@@ -35,7 +35,7 @@ Once you have installed everything, open up Unity hub, click the Add button at t
 
 Click the add button
 
-![image](https://github.com/user-attachments/assets/c1db3395-5c3e-4605-b6f9-7c3be16ebdf1)
+![image](https://github.com/user-attachments/assets/7bcf414d-3c43-4eb2-8798-9c9aaedc21a0)
 
 Find the root directory of your project (you'll know you've found it when it shows the assets, packages, and project settings folders)
 
