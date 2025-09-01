@@ -56,6 +56,8 @@ public class MadObj_Held : MadObj
     [Header("  >> REFS: Held")]
     [Tooltip("Points where your Main and Off-Hands will go when holding this item.")]
     public GameObject[] Grip = new GameObject[2];
+    [Tooltip("OPTIONAL: For Ranged/Melee weapons using the WeaponAnimator, your weapon will orient to its user based on these points instead of Grip[0] and [1]. This frees up the grip points so they can be animated properly.")]
+    public Transform[] Orientation = new Transform[2];
 }
 
 
